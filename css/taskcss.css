@@ -1,0 +1,26 @@
+h1{
+	font-size: 100px;
+	margin-top: 40px;
+}
+.banner{
+	color: red;
+	height: 200px;
+	font-size: 30px
+}
+marquee{
+	text-decoration: underline;
+	font-size: 20px;
+}
+p{
+	overflow: auto;
+	height: 600px;
+	font-size: 30px;
+	align-content: center;
+	margin-top: 10px;
+}
+.change-colour{
+	font-size: 20px;
+}
+.height{
+	height: 200px;
+}
